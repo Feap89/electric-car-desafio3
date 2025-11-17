@@ -1,11 +1,14 @@
-# Electric Car Store – Desafío 3
+# Electric Car Store –
 
-Este proyecto fue desarrollado como parte del Desafío 3 de maquetación responsiva. Se implementaron dos layouts (mobile y desktop) utilizando CSS Grid y Flexbox, respetando los contenidos vistos en clase.
+Este proyecto fue desarrollado como parte del Desafío 3 de maquetación responsiva. Se implementaron dos layouts (mobile y desktop) utilizando CSS Grid y Flexbox, respetando los contenidos vistos en clase. 
+
+Así mismo ocupé este desafio para desarrollar la prueba final del módulo de CSS. Galería de imágenes con animación:  
+   - Las imágenes se muestran en blanco y negro y al pasar el cursor recuperan su color original con un ligero zoom.
 
 ## Tecnologías utilizadas
-- HTML5
-- CSS3 (Grid + Flexbox)
-- Font Awesome (para íconos sociales)
+- HTML5  
+- CSS3 (Grid, Flexbox, Media Queries, Animaciones/Transiciones)  
+- Font Awesome (íconos sociales) 
 
 ## Estructura del layout
 - Menú de navegación
